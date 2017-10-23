@@ -1,0 +1,11 @@
+PASS	Basic Statistics	ERR990559.fastq.gz
+PASS	Per base sequence quality	ERR990559.fastq.gz
+PASS	Per sequence quality scores	ERR990559.fastq.gz
+WARN	Per base sequence content	ERR990559.fastq.gz
+FAIL	Per base GC content	ERR990559.fastq.gz
+FAIL	Per sequence GC content	ERR990559.fastq.gz
+PASS	Per base N content	ERR990559.fastq.gz
+PASS	Sequence Length Distribution	ERR990559.fastq.gz
+FAIL	Sequence Duplication Levels	ERR990559.fastq.gz
+WARN	Overrepresented sequences	ERR990559.fastq.gz
+WARN	Kmer Content	ERR990559.fastq.gz
